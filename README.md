@@ -14,6 +14,30 @@ Bem-vindo ao repositório dos meus projetos de programação do dia a dia! Este 
 
 Este repositório é uma coleção dos meus projetos pessoais de programação. O objetivo é compartilhar meu progresso, aprendizado e fornecer exemplos de como utilizar as bibliotecas `pygame` e `p5` para criar aplicações interativas e jogos.
 
+Essas são algumas das pessoas que me inspiraram a criar esses projetos:
+
+<p align="center">
+    <a href="https://www.youtube.com/c/TheCodingTrain">
+        <img src="https://yt3.googleusercontent.com/99wepc_FTSN0n_GbR-FlFANyxed7TsbE8WxKIDWftdxssZlYo1-gW1CRD7cPgOzThMM8m4W8=s176-c-k-c0x00ffffff-no-rj" alt="The Coding Train" width="150" height="150" >
+    </a>
+    <a href="https://www.youtube.com/c/ClearCode">
+        <img src="https://yt3.googleusercontent.com/Wj9_npdrzYf5kxqLqfSLukT8iED0lR5r-lQ7giM3vXahULQYdm7cUtHstltUDLadmf9EyEANMA=s176-c-k-c0x00ffffff-no-rj" alt="Clear Code" width="150" height="150" >
+    </a>
+    <a href="https://www.youtube.com/@cartersemrad">
+        <img src="https://yt3.googleusercontent.com/2CqYziwk0tDVqQzg1pCU8g4qDnDXKjzlaDCMvkump6Q7rkU-xnSnHCKy9TsHedkFbIVB28Q2=s176-c-k-c0x00ffffff-no-rj" alt="Carter Semrad" width="150" height="150" >
+    </a>
+    <a href="https://www.youtube.com/c/SebastianLague">
+        <img src="https://yt3.googleusercontent.com/ytc/AIdro_khWt3vK98dhFYSgpIZZBli0zwd-dztKDv9r7rtOEtAVO8=s176-c-k-c0x00ffffff-no-rj" alt="Sebastian Lague" width="150" height="150" >
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://www.youtube.com/@TheCodingTrain">The Coding Train</a> &nbsp;|&nbsp;
+    <a href="https://www.youtube.com/@ClearCode">Clear Code</a> &nbsp;|&nbsp;
+    <a href="https://www.youtube.com/@cartersemrad">Carter Semrad</a> &nbsp;|&nbsp;
+    <a href="https://www.youtube.com/@SebastianLague">Sebastian Lague</a>
+</p>
+
 ## Projetos
 
 ### 1. Projetos com Pygame
@@ -30,8 +54,7 @@ Para executar qualquer um dos projetos, siga os passos abaixo:
 
 1. Clone este repositório:
     ```bash
-    [git clone https://github.com/seu-usuario/seu-repositorio.git
-    cd seu-repositorio](https://github.com/gabriellsar/coding-challenges.git)
+    https://github.com/gabriellsar/coding-challenges.git
     ```
 
 2. Navegue até a pasta do projeto desejado:
