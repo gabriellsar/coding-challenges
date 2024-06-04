@@ -42,7 +42,7 @@ Essas são algumas das pessoas que me inspiraram a criar esses projetos:
 
 ### 1. Projetos com Pygame
 
-![Projeto com Pygame](caminho/para/seu/gif/pygame_project.gif)
+![Projeto com Pygame](assets/dotsGIF.gif)
 
 ### 2. Projetos com P5
 
