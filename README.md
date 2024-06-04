@@ -30,8 +30,8 @@ Para executar qualquer um dos projetos, siga os passos abaixo:
 
 1. Clone este repositório:
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    cd seu-repositorio
+    [git clone https://github.com/seu-usuario/seu-repositorio.git
+    cd seu-repositorio](https://github.com/gabriellsar/coding-challenges.git)
     ```
 
 2. Navegue até a pasta do projeto desejado:
