@@ -46,7 +46,7 @@ Essas são algumas das pessoas que me inspiraram a criar esses projetos:
 
 ### 2. Projetos com P5
 
-![Projeto com P5](caminho/para/seu/gif/pygame_project.gif)
+<img src="assets/frac_img.png" alt="Projeto com P5" width="200">
 
 ## Como Executar
 
